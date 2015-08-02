@@ -1,0 +1,4 @@
+loads on index
+mp3 issue solved
+local files issue solved
+script moved to main.php
